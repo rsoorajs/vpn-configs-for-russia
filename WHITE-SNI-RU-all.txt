@@ -1,12 +1,15 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-06 / 17:53 (Moscow)
-# Количество: 6
+# Date/Time: 2026-03-06 / 22:02 (Moscow)
+# Количество: 9
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@cloud.whost-solutions.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&sid=#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20ads.x5.ru
+vless://9e48f11c-3989-4a12-8e8f-4492e11ecc9d@83.147.255.182:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=tFES_eY39L8W72ROZuwxMXNDK0_O8VdyAZWB98WVFVA&sid=c136ebc62d88fd84&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20yandex.ru
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@138.124.32.20:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=df13327f2677fc90&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20max.ru
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@84.21.173.174:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.net
 vless://43e322c8-e044-4625-a560-9bfec45e0eae@fin.rokvpn.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20yandex.net
+vless://140cfc11-dcc1-42ca-9583-85e1858c4405@5.42.110.135:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=tmSdJtkKznYrhUonFIJDjAIPiy2VbR9JBxMO4wjakGg&sid=7a5c0062c5ff1e&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20max.ru
+vless://a774f61d-a518-4c61-902f-807797da6caf@scvad1tel-ru.golden-cards.me:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=avatars.mds.yandex.net&fp=qq&pbk=whYmACpNNY4B3Yv8iBJ9AmxokZL2Tb7O210utmzvGSo&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20avatars.mds.yandex.net
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@9.cdnconn.com:1443?mode=auto&path=%252F&security=reality&encryption=none&extra=%257B%2522scMaxEachPostBytes%2522%253A1000000.0%252C%2522scMaxConcurrentPosts%2522%253A100.0%252C%2522scMinPostsIntervalMs%2522%253A30.0%252C%2522xPaddingBytes%2522%253A%2522100-1000%2522%252C%2522noGRPCHeader%2522%253Afalse%257D&pbk=UoWP-cohTBmadLBP2fE823VBq8UvXI1qvRTKaaJnnRA&fp=qq&allowinsecure=0&type=xhttp&sni=sun6-21.userapi.com&sid=cb78164bcc0adb7b#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20sun6-21.userapi.com
 vless://fcc08c6a-7754-4927-9f47-9e6e12d81fea@ru-2.scrubly.site:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=uml_ZhkyGuAtUHhBKgdwfDwXUTT0E056wcQLqE2OwFI&sid=6fa90b&sni=vk.com&mode=auto&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20vk.com
