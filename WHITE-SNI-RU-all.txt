@@ -1,14 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-10 / 06:11 (Moscow)
-# Количество: 8
+# Date/Time: 2026-03-10 / 10:05 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://51c87b87-6099-4b24-a5f6-7fd90231654a@wap.tunnyl.ru:3440?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=random&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&sid=e265b68a&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.net
 vless://57bf5b0e-6f60-479c-a76b-04cce23ffe23@wap.tunnyl.ru:3440?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=random&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&sid=e265b68a&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.net
 vless://b1732581-75dd-4101-8c3f-3fcf2d325c04@wap.tunnyl.ru:3440?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=random&pbk=FsvBAlh5sdzEKr2mnFU9eFZKUPMcYf_gxcN08owMxyw&sid=e265b68a&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.net
-vless://43e322c8-e044-4625-a560-9bfec45e0eae@fin.rokvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.net&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20yandex.net
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.vk.com&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
-vless://58f34930-c684-4c43-bf17-184974aa6da3@meow-amsterdam.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&headerType=none&host=m.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20m.ok.ru
-vless://b6df3910-edea-4272-8e99-73bde53c0d83@meow-amsterdam.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&headerType=none&host=m.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20m.ok.ru
-vless://d6415904-ebd7-43da-a4a0-26a627aa20fb@meow-amsterdam.nethcloud.top:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&type=tcp&headerType=none&host=m.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20m.ok.ru
