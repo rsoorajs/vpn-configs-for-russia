@@ -274,15 +274,6 @@ b) **如果除了 Yandex.ru、Gosuslugi、VK、Rutube、Sberbank、Mail.ru 或 O
   
    `karing_1.2.10.1300_macos_universal.dmg`（MacOS）
    
-**4)** **Singbox-launcher：**
-
-  *值得尝试的新客户端，用于测试 VPN 配置，可与 Sing-Box 配合工作。可以试试，开发者很友好也很活跃。*
-
-   https://github.com/Leadaxe/singbox-launcher/releases
-
-   `singbox-launcher-v0.7.1-win64.zip`（Windows）
-  
-   `singbox-launcher-v0.7.1-macos.zip`（MacOS）
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS —— 在 App Store 使用 Streisand、Shadowrocket、Karing、V2Box 或 v2RayTun。
 
