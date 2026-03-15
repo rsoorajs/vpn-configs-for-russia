@@ -1,11 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-15 / 19:12 (Moscow)
-# Количество: 5
+# Date/Time: 2026-03-15 / 20:18 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://cc3f40b8-b869-4559-8490-9207bf0ed261@grinoree.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&fp=random&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5BSNI-RU%5D%20rbc.ru
 vless://7243243b-297b-47f0-8c13-c67f61b66feb@176.124.203.228:443?security=reality&encryption=none&pbk=p9OR29TWTl-GViMyOHeQWWd0WZI63MkiK49O3CZ62QA&headerType=none&fp=chrome&type=tcp&sni=wildberries.ru&sid=ba9f3c7d5e1a8b4c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20wildberries.ru
-vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
-vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
 vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@tr1.odavpn.online:59724/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=xBUqhMRjgJB7q-bavYp-zK5R-PTiej8ZsnPi0pFE0w4&sid=aabbccdd#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20ya.ru
+vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
