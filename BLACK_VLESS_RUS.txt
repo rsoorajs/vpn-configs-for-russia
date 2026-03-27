@@ -1,15 +1,19 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | VLESS
 # profile-update-interval: 5
-# Date/Time: 2026-03-27 / 11:46 (Moscow)
-# Количество: 9
+# Date/Time: 2026-03-27 / 13:23 (Moscow)
+# Количество: 13
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://fe11f40e-ab08-49cb-ba83-a013131176c5@fi.kv.prod.innobharat.space:8443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1KY_jqa2yPLBEBa-3TG77zs4ak2zQLGul4eexxCueyI&sid=f087eb07da743e94&sni=google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://7d714031-76a9-4500-a132-27dd3307b16e@kinode19.boevik-tut.org:443?type=tcp&security=tls&fp=&sni=kinode19.boevik-tut.org&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://0cfb8127-873d-46ca-9f31-f7918cdaaf11@xfer.mos-drywall.shop:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=bPRyJNdN6kxTypxr65RjpadXexY5fztAecykcC-NrTM&sid=6a2f3e&sni=xfer.mos-drywall.shop&path=/devxhttp/&mode=packet-up#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://0cfb8127-873d-46ca-9f31-f7918cdaaf11@xfer.mos-drywall.shop:443?type=xhttp&security=reality&fp=&pbk=bPRyJNdN6kxTypxr65RjpadXexY5fztAecykcC-NrTM&sid=6a2f3e&sni=xfer.mos-drywall.shop&path=/devxhttp/&host=&mode=packet-up#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://0e16e72e-d37c-45c7-b1a2-2e8c0fb14956@itsea.osaip.net:443?encryption=none&security=tls&type=grpc&serviceName=violet&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://9b595065-67ea-4fbe-a42f-9ebebfff2bd1@itsea.osaip.net:443?security=tls&type=grpc&mode=gun&serviceName=violet&sni=itsea.osaip.net&fp=chrome#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
+vless://96a711be-542c-4976-9066-33442e780c61@msk1.hitbitapp.com:50054?type=grpc&security=reality&encryption=none&fp=chrome&pbk=rI9VYuHyu0t0bKzVyNekh_DYgeV4nBI2AFVb910DY2g&sid=2735575d060b15a9&sni=msk1.hitbitapp.com&mode=gun&serviceName=/&spx=/&authority=#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Astana%20%7C%20%5BBL%5D
+vless://7d714031-76a9-4500-a132-27dd3307b16e@kinose26.boevik-tut.org:443?type=tcp&security=tls&fp=&sni=kinose26.boevik-tut.org&path=&host=#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://ee72108d-41b3-4be4-963a-13a95a4796ad@nl4.node.getvpn4you.ru:8443?type=xhttp&security=reality&fp=chrome&pbk=sLp0-BtGhqDhYoUS87gqkcAmX87AAAiCSKJLgb33CAk&sid=f3c89e2c7a41b0d6&sni=pingless.com&path=&host=&mode=auto#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Eygelshoven%20%7C%20%5BBL%5D
 vless://96a711be-542c-4976-9066-33442e780c61@spb1.hitbitapp.com:50052?type=grpc&security=reality&fp=chrome&pbk=rI9VYuHyu0t0bKzVyNekh_DYgeV4nBI2AFVb910DY2g&sid=560dced8d059f42b&sni=spb1.hitbitapp.com&mode=gun&serviceName=/&spx=/&authority=#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?type=tcp&security=tls&sni=uk1.fromblancwithlove.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://1dc0a918-e35d-4744-bc27-c1424d5bdfbd@us.energooblako.ru:2083?type=tcp&security=reality&fp=chrome&pbk=h1QzEv2EjqYNuZuqOKLZ7BrxTztVv8KDp9CAADFK4TE&sid=0123456789abcdef&sni=www.microsoft.com&path=&host=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://4c1778f3965c48af9529c11ce054b9c2@209.248.4.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&security=reality&sid=96e03e0f184639ef&sni=peer.pan.baidu.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Little%20Rock%20%28River%20Mountain%29%20%7C%20%5BBL%5D
-vless://96a711be-542c-4976-9066-33442e780c61@spb1.hitbitapp.com:50053?type=grpc&security=reality&fp=chrome&pbk=rI9VYuHyu0t0bKzVyNekh_DYgeV4nBI2AFVb910DY2g&sid=ed3eb3256dee971f&sni=spb1.hitbitapp.com&mode=gun&serviceName=/&spx=/&authority=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 vless://96a711be-542c-4976-9066-33442e780c61@msk1.hitbitapp.com:50051?type=grpc&security=reality&encryption=none&fp=chrome&pbk=rI9VYuHyu0t0bKzVyNekh_DYgeV4nBI2AFVb910DY2g&sid=c115461100d2c3f9&sni=msk1.hitbitapp.com&mode=gun&serviceName=/&spx=/&authority=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.92.9.156:443?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2048&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
