@@ -1,13 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-28 / 01:25 (Moscow)
-# Количество: 7
+# Date/Time: 2026-03-28 / 02:54 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://3232fde1-252a-4fb1-b2a5-b29184b3680f@fin3.ardor-cloud.ru:443?security=reality&flow=xtls-rprx-vision&pbk=GJs4d8nBt2fLailu7SqmhNNNtkLCed6ds2OwSh3vDEw&sid=45ba2da322ad2a98&sni=web.max.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20web.max.ru
 vless://d65fff16-7187-40ac-a466-fff10f055bf9@pr.noped.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=qq&security=reality&pbk=wpTuFcpcr8A44-k21r2gJF_LlJbqfEP4pfhS7HzDrCs&sid=79e3619df8c7db13&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20sun6-22.userapi.com
-vless://3232fde1-252a-4fb1-b2a5-b29184b3680f@rout.ardor-cloud.ru:443?type=grpc&security=reality&pbk=023_468zMvS0ddFwITNF3rJOe6r6MvnDf4RBLAH9hjs&sid=84ba23f147ad7b95&sni=m.vk.com#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20m.vk.com
 vless://e75236c8-6807-4d83-b048-e27b80a11678@176.53.161.40:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=random&security=reality&pbk=fPs85gyGfEwj-9_G3IbQceOAAAXRPQz2fLHjkiNVigU&sid=a7d23fc15aeb9eaf&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ozon.ru
-vless://1adbefe0-826a-42db-a1a4-16042760f3bd@tech-hi.extravpn.info:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=ZZ4nloU3tA95TiuzL66xCECR_7m17no92eVgDg-bQTk&sid=abcd1234&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20sun6-21.userapi.com
-vless://3232fde1-252a-4fb1-b2a5-b29184b3680f@rus.ardor-cloud.ru:443?type=grpc&security=reality&pbk=r1FAv6AXbkUfAqA7FkO4CxFaxnU8Db_le2vQJXRhllc&sid=84ba23f147dd7a35&sni=m.vk.com&serviceName=m.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20m.vk.com
 vless://c792eb3f-7ab2-4f18-90c4-2dc86071b837@ru56.theabvp.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=TV4U5lycYfT8fCVIH20ascTfX5F4BsSBo2pzG5Djvh0&sid=2ea5c64c&sni=st.ozone.ru&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20st.ozone.ru
