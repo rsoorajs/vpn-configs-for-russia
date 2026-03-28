@@ -1,7 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-28 / 10:41 (Moscow)
-# Количество: 1
+# Date/Time: 2026-03-28 / 11:59 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://d65fff16-7187-40ac-a466-fff10f055bf9@pr.noped.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=qq&security=reality&pbk=wpTuFcpcr8A44-k21r2gJF_LlJbqfEP4pfhS7HzDrCs&sid=79e3619df8c7db13&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20sun6-22.userapi.com
+vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@pol.odavpn.online:59422/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=Px_ZZaayDydcempYZxuouTf_M4lSFUYaciHWP5-_aFY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ya.ru
+vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@es3.odavpn.online:55607/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=SYwb52VR70d1QPMxZymKroCuXnL69YalD5yr0J1yinQ&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5BSNI-RU%5D%20ya.ru
+vless://8153a965-34bf-1770-99a6-99a9390fd38a@72.56.14.2:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20max.ru
+vless://d58453c3-c2ce-0981-447d-c508cdb5545c@87.247.142.211:48001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=qq&security=reality&pbk=RwlWEtxI1JlN_JYI_x5eyEPL9nh4yJY1cc07BWmuwFE&sid=a04c6a6200a097a0&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20travel.yandex.ru
