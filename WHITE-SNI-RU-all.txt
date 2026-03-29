@@ -1,12 +1,14 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-29 / 12:17 (Moscow)
-# Количество: 14
+# Date/Time: 2026-03-29 / 13:55 (Moscow)
+# Количество: 16
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://a5766c45-4c36-46b5-a882-1efb8ad6f855@br-m247-01.com:8443?security=reality&sni=rbc.ru&fp=random&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5BSNI-RU%5D%20rbc.ru
-vless://3aabfa5a-5a85-4111-afba-a59726b4d852@ca-dp-01.com:8443?security=reality&sni=rbc.ru&fp=random&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&sid=d3ee47fc2f553c44&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5BSNI-RU%5D%20rbc.ru
+vless://48380aca-b595-4444-97b1-9c3223dc10ed@213.165.58.203:443?type=tcp&security=reality&encryption=none&fp=random&pbk=3ZkV5iuUZAxag318uKf3lRdZ1x7I65kIrYbkPt8YNG8&sid=21&sni=rbc.ru&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
+vless://5728c71a-23d5-4527-a062-0083019b2725@kz-mg-01.org:8443?security=reality&sni=rbc.ru&fp=random&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&sid=7765629371647733&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20rbc.ru
 vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@pol.odavpn.online:59422/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=Px_ZZaayDydcempYZxuouTf_M4lSFUYaciHWP5-_aFY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ya.ru
+vless://be040a32-f1f4-4091-b8d5-d5a931238e2e@md-alex-01.com:8443?security=reality&sni=rbc.ru&fp=random&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=9f4263b353817e73&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5BSNI-RU%5D%20rbc.ru
 vless://5ecf4912-8d37-4d03-ac59-f2a466d1bdff@nl-node-001.amnesia.pw:443?flow=xtls-rprx-vision&sni=ekmp-a-51.rzd.ru&security=reality&pbk=I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ekmp-a-51.rzd.ru
 vless://5ecf4912-8d37-4d03-ac59-f2a466d1bdff@nl-node-002.amnesia.pw:443?flow=xtls-rprx-vision&sni=ekmp-a-51.rzd.ru&security=reality&pbk=I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ekmp-a-51.rzd.ru
 vless://5ecf4912-8d37-4d03-ac59-f2a466d1bdff@nl-node-003.amnesia.pw:443?flow=xtls-rprx-vision&sni=ozon.ru&security=reality&pbk=I69t4VQEvCY-NlQuMVHGggvJ2aNo18gWstkmA-uQWxE&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ozon.ru
