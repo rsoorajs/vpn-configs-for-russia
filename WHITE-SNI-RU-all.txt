@@ -1,15 +1,36 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-04-24 / 20:37 (Moscow)
-# Количество: 9
+# Date/Time: 2026-04-24 / 21:28 (Moscow)
+# Количество: 30
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@176.12.64.238:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20id.vk.com
 vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@176.12.65.34:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20id.vk.com
 vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@176.12.65.36:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20id.vk.com
 vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@176.12.65.37:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20id.vk.com
+vless://e410a4fe-b2e5-42fb-b725-6d7ef496c2ac@ss.o11111o.club:443?encryption=none&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20id.vk.com
+vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&security=reality&encryption=none&fp=chrome&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&sid=9a694cfa8ebd15&sni=www.m.vk.ru#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20%5BSNI-RU%5D%20www.m.vk.ru
+vless://bf263367-bb63-4663-b4a1-34946107a72e@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&spx=/#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://8ab4644d-5b36-47e2-911a-cacb89b0ec0c@64.188.77.42:443?encryption=none&type=grpc&serviceName=vk.push.v1.PushNotificationService&mode=gun&security=reality&sni=vk.com&fp=chrome&pbk=Duxwa0WD9RhAy4EsGdWgo2ALlOUWGfZ2KCVLKEP_214&sid=6d1e4c8f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20vk.com
-hysteria2://123456789StrongPass@144.31.224.14:443?headerType=none&encryption=none&sni=eh.vk.com&insecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
-hysteria2://123456789StrongPass@144.31.224.14:443?sni=eh.vk.com&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+vless://c845dd84-8703-4828-98d0-728d39206a7a@ru-7.maxg.ch:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=&pbk=QlQDX8jxqNJE1qtZmaZCDxE7gZqcLlOKdWd5YKNv0Gg&sid=555b9b33d083d3f1&spx=%2Fcdn-cgi%2Ftrace#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20ads.x5.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tn.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:443?headerType=none&encryption=none&sni=live.ok.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tn.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:443/?insecure=1&sni=live.ok.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20live.ok.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:443/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@yy.xbs54as9c6.ru:8002?headerType=none&encryption=none&sni=rbc.ru&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@tg.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:7081/?insecure=1&sni=rzd.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a@tg.xbs54as9c6.ru:7081?headerType=none&encryption=none&sni=rzd.ru&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rzd.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:443/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20rbc.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002/?insecure=1&sni=rbc.ru#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20rbc.ru
+hysteria2://75356919-6ece-455c-ba7a-9f042a60d2c5@yy.xbs54as9c6.ru:8002?headerType=none&encryption=none&sni=rbc.ru&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20rbc.ru
