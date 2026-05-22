@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-05-22 / 15:39 (Moscow)
+# Date/Time: 2026-05-22 / 17:14 (Moscow)
 # Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
@@ -46,24 +46,6 @@ proxies:
     mode: auto
     headers:
       Host: "\x73\x74\x6f\x72\x61\x67\x65\x2e\x79\x61\x6e\x64\x65\x78\x63\x6c\x6f\x75\x64\x2e\x6e\x65\x74"
-- name: 🇩🇪 Germany | 🌐 [SNI-RU] yandex.by
-  type: vless
-  server: "\x6c\x31\x2e\x6c\x2d\x69\x74\x78\x2e\x69\x6e\x66\x6f"
-  port: 443
-  uuid: "\x37\x61\x64\x34\x63\x30\x37\x32\x2d\x64\x62\x39\x65\x2d\x34\x65\x37\x39\x2d\x61\x35\x65\x31\x2d\x35\x65\x63\x32\x63\x30\x30\x65\x65\x35\x32\x34"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x79\x61\x6e\x64\x65\x78\x2e\x62\x79"
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA
-    short-id: 6ba85179e30d4fc3
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f\x78\x68"
-    headers:
-      Host: "\x79\x61\x6e\x64\x65\x78\x2e\x62\x79"
 - name: 🇰🇿 Kazakhstan [SNI-RU] ads.x5.ru
   type: vless
   server: "\x31\x35\x39\x2e\x31\x39\x34\x2e\x32\x33\x39\x2e\x33\x37"
@@ -96,6 +78,22 @@ proxies:
     public-key: tVyj7_ief3PBOwG3uC9i_XXKGRXiTJJ6XkrkEOZepDc
     short-id: 3c88b649989ffa95
   flow: xtls-rprx-vision
+- name: 🇬🇧 United Kingdom [SNI-RU] ozon.ru
+  type: vless
+  server: "\x33\x31\x2e\x37\x36\x2e\x31\x32\x32\x2e\x31\x32"
+  port: 8080
+  uuid: "\x64\x63\x31\x65\x39\x35\x63\x64\x2d\x35\x31\x32\x39\x2d\x34\x61\x31\x33\x2d\x62\x63\x63\x34\x2d\x65\x61\x64\x65\x62\x38\x39\x32\x61\x31\x33\x36"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x6f\x7a\x6f\x6e\x2e\x72\x75"
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y
+    short-id: 6d6f13013d3e1d0c
+  network: xhttp
+  xhttp-opts:
+    path: "\x2f"
 - name: 🇺🇸 United States | 🌐 [SNI-RU] ads.x5.ru
   type: vless
   server: "\x31\x35\x35\x2e\x32\x31\x32\x2e\x31\x34\x36\x2e\x31\x39\x35"
