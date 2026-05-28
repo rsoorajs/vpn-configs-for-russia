@@ -1,8 +1,14 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-05-28 / 16:50 (Moscow)
-# Количество: 2
+# Date/Time: 2026-05-28 / 18:26 (Moscow)
+# Количество: 8
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://cd5bb6c7-7736-4122-a1f9-a3e4f3dd8b18@158.160.122.237:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=h8BDQnylBOkY67mfYEWv47OtXIo8FOjL5Y1tlozo8D0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@51.250.113.157:443?type=tcp&security=reality&fp=random&pbk=65nqcY-jE1J_G27W-X_qGCSpXMEHif6MBLXN8kBoFB0&sid=1f18adc24d1d&sni=www.google.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://790fcfdd-f735-48d9-ae52-5f209a361c21@84.201.156.82:443?type=grpc&security=reality&encryption=none&pbk=QoI8iymZqxZwFFO2x0xh4lhLgq9O2CJUdw9fnCPpT3k&fp=firefox&sni=ads.x5.ru&sid=15affa0af66dfc79&serviceName=x5_bridge&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://790fcfdd-f735-48d9-ae52-5f209a361c21@84.201.160.213:443?type=grpc&security=reality&encryption=none&pbk=KO2FXxGrvmwiEuQtRbTwXkHofM-26U63QUKOz7nt8WY&fp=firefox&sni=ads.x5.ru&sid=15affa0af66dfc79&serviceName=x5_bridge&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://17069a79-c31f-4de3-83ea-fe3e03dc499d@yaf3.cyphervpn.pro:443?type=tcp&security=reality&encryption=none&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&fp=firefox&sni=max.ru&sid=8f9d033ad6d2cebf&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
+vless://9f570987-8f0f-4455-9aee-bd0a3e1963be@msc2.mkaservice.top:443?type=tcp&security=reality&encryption=none&pbk=i3F_hP7yc9VpcUC2Vn1oAqLyW3hZayGdTybl-VnWdz0&fp=qq&sni=max.ru&sid=02827ef87f4a23c0&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
+vless://4f4f9461-5cfa-4746-9f62-2f08dfd05636@178.154.194.68:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=pornhub.com&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&sid=abab34c40ed6c10a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://4f4f9461-5cfa-4746-9f62-2f08dfd05636@178.154.194.99:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=pornhub.com&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&sid=abab34c40ed6c10a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://4f4f9461-5cfa-4746-9f62-2f08dfd05636@51.250.21.112:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=pornhub.com&pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&sid=abab34c40ed6c10a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://96fec558-76d9-40f5-8589-fe01afb6eaf6@84.201.164.3:443?type=tcp&security=reality&encryption=none&pbk=HmRtly8onk8X3HeLdRuqN7q81Qv-7wX-tfCWOUAsFio&fp=chrome&sni=yandex.ru&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
