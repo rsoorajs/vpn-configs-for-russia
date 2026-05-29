@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-05-29 / 13:14 (Moscow)
-# Количество: 1
+# Date/Time: 2026-05-29 / 14:58 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -9,19 +9,45 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
-- name: 🇵🇱 Poland [SNI-RU] www.kinopoisk.ru
+- name: 🇩🇪 Germany [SNI-RU] max.ru
   type: vless
-  server: "\x38\x35\x2e\x31\x35\x38\x2e\x31\x30\x39\x2e\x31\x31\x33"
+  server: "\x79\x61\x66\x33\x2e\x63\x79\x70\x68\x65\x72\x76\x70\x6e\x2e\x70\x72\x6f"
   port: 443
-  uuid: "\x38\x37\x62\x65\x38\x62\x65\x32\x2d\x39\x32\x39\x36\x2d\x34\x39\x31\x32\x2d\x39\x34\x34\x65\x2d\x64\x34\x39\x63\x63\x38\x31\x34\x38\x35\x64\x38"
+  uuid: "\x39\x66\x63\x65\x31\x38\x66\x30\x2d\x36\x38\x33\x37\x2d\x34\x66\x31\x39\x2d\x38\x34\x61\x35\x2d\x34\x37\x31\x30\x63\x35\x34\x62\x61\x35\x36\x32"
   udp: true
   encryption: none
   tls: true
-  servername: "\x77\x77\x77\x2e\x6b\x69\x6e\x6f\x70\x6f\x69\x73\x6b\x2e\x72\x75"
-  client-fingerprint: chrome
+  servername: "\x6d\x61\x78\x2e\x72\x75"
+  client-fingerprint: firefox
   reality-opts:
-    public-key: ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw
-    short-id: aabbccdd
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f\x74\x44\x6a\x6b\x65\x75\x78\x79\x51\x50\x55\x44\x71\x46\x38\x77\x54\x32"
+    public-key: USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc
+    short-id: 8f9d033ad6d2cebf
+  flow: xtls-rprx-vision
+- name: 🇱🇹 Lithuania [SNI-RU] max.ru
+  type: vless
+  server: "\x79\x61\x66\x32\x2e\x63\x79\x70\x68\x65\x72\x76\x70\x6e\x2e\x70\x72\x6f"
+  port: 443
+  uuid: "\x39\x66\x63\x65\x31\x38\x66\x30\x2d\x36\x38\x33\x37\x2d\x34\x66\x31\x39\x2d\x38\x34\x61\x35\x2d\x34\x37\x31\x30\x63\x35\x34\x62\x61\x35\x36\x32"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x6d\x61\x78\x2e\x72\x75"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc
+    short-id: 8f9d033ad6d2cebf
+  flow: xtls-rprx-vision
+- name: 🇳🇱 The Netherlands | 🌐 [SNI-RU] rutube.ru
+  type: vless
+  server: "\x36\x34\x2e\x31\x38\x38\x2e\x39\x30\x2e\x33\x35"
+  port: 7443
+  uuid: "\x34\x33\x35\x30\x66\x64\x38\x65\x2d\x39\x66\x35\x64\x2d\x34\x37\x65\x37\x2d\x61\x35\x66\x36\x2d\x36\x31\x36\x31\x65\x30\x66\x37\x64\x62\x39\x62"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x72\x75\x74\x75\x62\x65\x2e\x72\x75"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: 5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI
+    short-id: d82fb387
+  flow: xtls-rprx-vision
