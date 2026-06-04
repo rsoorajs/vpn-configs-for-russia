@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-06-04 / 15:45 (Moscow)
-# Количество: 3
+# Date/Time: 2026-06-04 / 17:24 (Moscow)
+# Количество: 9
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -9,49 +9,129 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
-- name: 🇨🇿 Czechia [*CIDR] VK
+- name: 🇬🇧 United Kingdom | 🌐 [*CIDR] YA
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x31\x30\x36\x2e\x38\x37"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🇬🇧 United Kingdom | 🌐 [*CIDR] YA #2'
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x31\x30\x38\x2e\x31\x36\x32"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: 🇬🇧 United Kingdom [*CIDR] VK
   type: vless
   server: "\x31\x34\x36\x2e\x31\x38\x35\x2e\x32\x31\x31\x2e\x31\x30\x37"
-  port: 8444
+  port: 8448
   uuid: "\x36\x33\x61\x31\x36\x65\x62\x62\x2d\x38\x36\x38\x37\x2d\x34\x32\x61\x63\x2d\x39\x37\x32\x61\x2d\x35\x39\x31\x34\x63\x61\x66\x61\x64\x31\x64\x35"
   udp: true
   encryption: none
   tls: true
   servername: "\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: chrome
+  client-fingerprint: qq
   reality-opts:
-    public-key: hL6rNCNtquIMhYV8V3WOrowSgIwko61yQIX2o1w6_lY
-    short-id: 0d62c138f2bf1ba8
+    public-key: 1AaVqUPIiB24__LI0ntnhNU6QgZfHlYjukKZ-12hW04
+    short-id: a3f9c2e17b6d4a8c
   flow: xtls-rprx-vision
-- name: 🌐 Anycast-IP | 🇩🇪 🇬🇧 [*CIDR] VK
+- name: 🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA
   type: vless
-  server: "\x38\x39\x2e\x32\x30\x38\x2e\x32\x30\x38\x2e\x39\x32"
-  port: 7443
-  uuid: "\x63\x62\x63\x32\x37\x65\x35\x36\x2d\x33\x38\x61\x31\x2d\x34\x62\x30\x64\x2d\x62\x63\x65\x33\x2d\x66\x39\x65\x37\x64\x63\x62\x38\x30\x37\x61\x34"
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x31\x30\x32\x2e\x36\x39"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
   udp: true
   encryption: none
   tls: true
-  servername: "\x6c\x6f\x61\x64\x74\x65\x73\x74\x2e\x64\x65\x76\x2e\x75\x72\x65\x6e\x74\x2e\x72\x75"
-  client-fingerprint: chrome
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
   reality-opts:
-    public-key: _AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs
-    short-id: 3210e0eee6605048
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: '🌐 Anycast-IP | 🇩🇪 🇬🇧 [*CIDR] VK #2'
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA #2'
   type: vless
-  server: "\x38\x39\x2e\x32\x30\x38\x2e\x32\x30\x38\x2e\x39\x32"
-  port: 9443
-  uuid: "\x63\x62\x63\x32\x37\x65\x35\x36\x2d\x33\x38\x61\x31\x2d\x34\x62\x30\x64\x2d\x62\x63\x65\x33\x2d\x66\x39\x65\x37\x64\x63\x62\x38\x30\x37\x61\x34"
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x31\x30\x33\x2e\x31\x30\x34"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
   udp: true
   encryption: none
   tls: true
-  servername: "\x6c\x6f\x61\x64\x74\x65\x73\x74\x2e\x64\x65\x76\x2e\x75\x72\x65\x6e\x74\x2e\x72\x75"
-  client-fingerprint: chrome
-  alpn:
-  - http%2F1.1
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
   reality-opts:
-    public-key: aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q
-    short-id: 689def22fcb54e86
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA #3'
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x31\x30\x34\x2e\x32\x34\x36"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA #4'
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x32\x34\x2e\x32\x32\x32"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA #5'
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x32\x34\x2e\x32\x33\x32"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇫🇷 🇬🇧 [*CIDR] YA #6'
+  type: vless
+  server: "\x35\x31\x2e\x32\x35\x30\x2e\x39\x37\x2e\x31\x38"
+  port: 443
+  uuid: "\x66\x63\x64\x61\x65\x63\x36\x34\x2d\x66\x33\x62\x64\x2d\x34\x66\x66\x37\x2d\x62\x63\x61\x30\x2d\x30\x65\x63\x35\x31\x37\x37\x30\x36\x62\x33\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x63\x64\x70\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: safari
+  reality-opts:
+    public-key: wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI
+    short-id: 8ec792bfd725be8a
   flow: xtls-rprx-vision
