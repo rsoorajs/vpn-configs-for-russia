@@ -1,12 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-06-08 / 15:15 (Moscow)
-# Количество: 6
+# Date/Time: 2026-06-08 / 17:19 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@pl.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ads.x5.ru
-vless://b42e34e3-d95c-4f9e-9e8c-e327e2323b6c@uk.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=b76dcf9e1183fe1b#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
-vless://bd78d4ee-c068-4125-94ba-50814578dc41@217.179.220.66:8443?security=reality&sni=ads.x5.ru&type=grpc&serviceName=grpc-yandex&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20ads.x5.ru
-vless://bd78d4ee-c068-4125-94ba-50814578dc41@217.179.220.69:8443?security=reality&sni=ads.x5.ru&type=grpc&serviceName=grpc-yandex&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20ads.x5.ru
-vless://bd78d4ee-c068-4125-94ba-50814578dc41@217.179.220.70:8443?security=reality&sni=ads.x5.ru&type=grpc&serviceName=grpc-yandex&fp=chrome&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20ads.x5.ru
-vless://02b92210-c4b8-4052-974f-62874a3a34fa@fire.jykvpn.com:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%AC%F0%9F%87%A7%20%5BSNI-RU%5D%20ads.x5.ru
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@vk-most-pl.harknmav.fun:8443?security=reality&encryption=none&echfq=none&pbk=zWeCf20jRIFNaeSWo_028sR92X_Of9UEJGMZWRLhiHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=be3c4c10ca44241a#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20eh.vk.com
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@city-most-1.harknmav.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=edge&pbk=zWeCf20jRIFNaeSWo_028sR92X_Of9UEJGMZWRLhiHc&sid=be3c4c10ca44241a&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20max.ru
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l10-1.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sid=6ba85179e30d4fc3&sni=yandex.by&type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20yandex.by
+vless://28cee14e-a124-4c9f-88e2-fcb6c1304ea3@31.76.50.109:443?type=tcp&security=reality&sni=a.wb.ru&fp=firefox&pbk=Ueqd3mFmtmBODNPEA2zOnS1L3FrcS0bLweBZQW5xmmw&sid=6069ba5ecbf75abb#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20a.wb.ru
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@gcn-2.harknmav.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=6Mk84AXRdZIpj-kCtnHIY5bHPglycJJh9nJO3S6AC2c&sid=aadbaa7f996dd0e9&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20ads.x5.ru
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@vk-most-gaming.harknmav.fun:443?security=reality&encryption=none&echfq=none&pbk=ZJcIRk3tkkvpe-n4Zzz7938AQG4FmBSzN9gwXcJ8mg4&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=4a752b0d4d15e0f7#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20eh.vk.com
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@ya2.harknmav.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20yandex.ru
