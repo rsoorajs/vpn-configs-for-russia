@@ -1,11 +1,24 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-06-10 / 02:20 (Moscow)
-# Количество: 0
+# Date/Time: 2026-06-10 / 04:27 (Moscow)
+# Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
 allow-lan: false
 mode: rule
 log-level: warning
-proxies: []
+proxies:
+- name: 🇲🇩 Moldova [*CIDR]
+  type: vless
+  server: "\x31\x38\x35\x2e\x32\x34\x32\x2e\x31\x39\x2e\x32\x35\x30"
+  port: 443
+  uuid: "\x63\x66\x62\x37\x30\x30\x30\x30\x2d\x65\x64\x36\x31\x2d\x34\x61\x37\x65\x2d\x38\x39\x61\x33\x2d\x32\x62\x39\x63\x32\x63\x61\x61\x36\x30\x30\x31"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x74\x6f\x70\x33\x37\x33\x39\x36\x36\x37\x30\x30\x32\x2e\x6d\x77\x73\x63\x64\x6e\x2e\x72\x75"
+  network: xhttp
+  xhttp-opts:
+    path: "\x2f\x6c\x69\x76\x65\x73\x74\x72\x65\x61\x6d\x63\x6f\x6e\x74\x65\x6e\x74\x2f"
+    mode: packet-up
