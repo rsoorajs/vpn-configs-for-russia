@@ -1,6 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-06-19 / 15:26 (Moscow)
+# Date/Time: 2026-06-19 / 17:45 (Moscow)
 # Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
@@ -9,7 +9,7 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
-- name: 🌐 Anycast-IP | 🇭🇰 🇱🇻 🇳🇱 [*CIDR] VK
+- name: 🌐 Anycast-IP | 🇭🇰 🇱🇻 [*CIDR] VK
   type: vless
   server: "\x31\x38\x35\x2e\x32\x34\x31\x2e\x31\x39\x35\x2e\x32\x31\x37"
   port: 443
@@ -23,7 +23,7 @@ proxies:
     public-key: 6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0
     short-id: be0191cc
   flow: xtls-rprx-vision
-- name: '🌐 Anycast-IP | 🇭🇰 🇱🇻 🇳🇱 [*CIDR] VK #2'
+- name: 🌐 Anycast-IP | 🇭🇰 🇱🇻 🇳🇱 [*CIDR] VK
   type: vless
   server: "\x31\x38\x35\x2e\x32\x34\x31\x2e\x31\x39\x35\x2e\x32\x31\x37"
   port: 443
@@ -32,7 +32,7 @@ proxies:
   encryption: none
   tls: true
   servername: "\x77\x77\x77\x2e\x74\x65\x73\x6c\x61\x2e\x63\x6f\x6d"
-  client-fingerprint: firefox
+  client-fingerprint: chrome
   reality-opts:
     public-key: 6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0
     short-id: be0191cc
