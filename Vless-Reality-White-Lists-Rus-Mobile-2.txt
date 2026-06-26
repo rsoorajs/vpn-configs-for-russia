@@ -1,38 +1,46 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-06-26 / 09:48 (Moscow)
-# Количество: 32
+# Date/Time: 2026-06-26 / 12:27 (Moscow)
+# Количество: 40
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&nonce=-G9bJuWP#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&headerType=none&insecure=0&encryption=none&seq=you_are_beautiful5049&sni=fta.fontanvpn.com&nonce=nBVCdjbm#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&insecure=0&seq=you_are_beautiful5049&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&seq=you_are_beautiful5049&encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83341#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=_4bf2f6&sni=fta.fontanvpn.com&descriptions=615#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=_4bf2f6&sni=fta.fontanvpn.com&seq=you_are_beautiful5049#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&insecure=0&sni=fta.fontanvpn.com&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%8390#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&encryption=none&sni=fta.fontanvpn.com&headerType=none&_t=d1c0cc0c&seq=you_are_beautiful0919#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&headerType=none&encryption=none&sni=fta.fontanvpn.com&__rand=21fb77d3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&insecure=0&headerType=none&sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&burmalda=b6cd8351#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&insecure=0&headerType=none&sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&freeinternet=kizyak_vpn1782416487286#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&sni=fta.fontanvpn.com&descriptions=_4bf2f6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&sni=fta.fontanvpn.com&descriptions=_4bf2f6&freeinternet=kizyak_vpn1782416487286#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&sni=fta.fontanvpn.com&descriptions=_4bf2f6&nonce=cvi20Wx5#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&sni=fta.fontanvpn.com&descriptions=_836610#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&insecure=0&__rand=7092bf3a#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&__rand=1881306f#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&sni=fta.fontanvpn.com&insecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&sni=fta.fontanvpn.com&__rand=21fb77d3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&__rand=6a997ca5#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&burmalda=af3b0558#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&burmalda=c69738f0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83933#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782323570413#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&__rand=df80d432#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&insecure=0&encryption=none&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&headerType=none&nonce=vKY6H3Vl#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&burmalda=f634a43f#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&descriptions=_4bf2f6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&descriptions=_4bf2f6&nonce=vKY6H3Vl#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&headerType=none&seq=you_are_beautiful5049&insecure=0&encryption=none&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F7a3f1d#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&insecure=1&nonce=bOEFgE4g#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&insecure=1&nonce=LYkhMOrv#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&__rand=42b96464&sni=fta.fontanvpn.com&_t=ececfc53#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&burmalda=f3ababc1&sni=fta.fontanvpn.com&descriptions=141&seq=you_are_beautiful4806#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&burmalda=32b7a0bc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&burmalda=1af17e2b#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&sni=fta.fontanvpn.com&burmalda=f3ababc1&descriptions=_66fe3a#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?_t=ececfc53&sni=fta.fontanvpn.com&__rand=025d5f55&__rand=42b96464&__rand=cecc481f#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?burmalda=f3ababc1&insecure=0&__rand=025d5f55&sni=fta.fontanvpn.com&seq=you_are_beautiful6935#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&__rand=025d5f55&__rand=d831c313#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&__rand=025d5f55&freeinternet=kizyak_vpn178219664666#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?headerType=none&sni=fta.fontanvpn.com&encryption=none&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&__rand=025d5f55&sni=fta.fontanvpn.com&_t=0b6978ef#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&_t=3badc77d&__rand=025d5f55&_t=ececfc53&sni=fta.fontanvpn.com&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83276#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&burmalda=f3ababc1&__rand=025d5f55&sni=fta.fontanvpn.com&descriptions=_414766#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&sni=fta.fontanvpn.com&__rand=025d5f55&burmalda=f3ababc1&burmalda=2a86d095#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=1&security=tls&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&__rand=025d5f55&__rand=42b96464&_t=ececfc53&seq=you_are_beautiful8603#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&__rand=025d5f55&insecure=0&burmalda=f3ababc1&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fd215e6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&nonce=zj4i5E80#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&insecure=0&headerType=none&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&encryption=none&__rand=c22067a8#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=c22067a8&headerType=none&encryption=none&insecure=0&seq=you_are_beautiful6001&__rand=4817afef&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6373#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=4817afef&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&headerType=none&seq=you_are_beautiful6001&freeinternet=kizyak_vpn1782376999768#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=4817afef&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&burmalda=e6c36824&descriptions=_ef36ca&sni=newlte.kihsuyhf8jkiugsxb.cfd&nonce=XOyMm9pN#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&__rand=3c48b4c9#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=_ef36ca#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=_ef36ca&descriptions=_8b398e#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&burmalda=edb25723#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&encryption=none&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83462#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&seq=you_are_beautiful6001&_t=0a9e1d9e#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=352#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
