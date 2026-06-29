@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-06-29 / 14:12 (Moscow)
-# Количество: 4
+# Date/Time: 2026-06-29 / 16:57 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -9,19 +9,59 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
-- name: 🇷🇺 Russia [*CIDR] YA
+- name: 🇩🇪 Germany [*CIDR] VK
   type: vless
-  server: "\x31\x35\x38\x2e\x31\x36\x30\x2e\x32\x30\x34\x2e\x32\x31\x31"
-  port: 8441
-  uuid: "\x63\x39\x31\x39\x65\x35\x39\x32\x2d\x35\x36\x33\x39\x2d\x34\x39\x31\x65\x2d\x61\x39\x62\x37\x2d\x37\x61\x32\x30\x31\x31\x37\x35\x61\x65\x31\x32"
+  server: "\x33\x37\x2e\x31\x33\x39\x2e\x33\x34\x2e\x31\x32\x34"
+  port: 443
+  uuid: "\x61\x65\x30\x39\x35\x39\x66\x31\x2d\x66\x32\x35\x61\x2d\x34\x33\x64\x30\x2d\x39\x63\x38\x38\x2d\x62\x65\x31\x36\x37\x32\x36\x34\x31\x66\x63\x33"
   udp: true
   encryption: none
   tls: true
-  servername: "\x79\x61\x2e\x72\x75"
+  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
   client-fingerprint: firefox
   reality-opts:
-    public-key: Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo
-    short-id: 06011ef464e3313f
+    public-key: FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4
+  flow: xtls-rprx-vision
+- name: '🇩🇪 Germany [*CIDR] VK #2'
+  type: vless
+  server: "\x33\x37\x2e\x31\x33\x39\x2e\x33\x34\x2e\x31\x32\x34"
+  port: 443
+  uuid: "\x61\x65\x30\x39\x35\x39\x66\x31\x2d\x66\x32\x35\x61\x2d\x34\x33\x64\x30\x2d\x39\x63\x38\x38\x2d\x62\x65\x31\x36\x37\x32\x36\x34\x31\x66\x63\x33"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4
+  flow: xtls-rprx-vision
+- name: 🇳🇱 The Netherlands [*CIDR] YA
+  type: vless
+  server: "\x38\x34\x2e\x32\x30\x31\x2e\x31\x36\x30\x2e\x31\x36\x37"
+  port: 443
+  uuid: "\x36\x39\x34\x65\x61\x64\x62\x65\x2d\x64\x36\x31\x66\x2d\x34\x66\x38\x30\x2d\x39\x35\x37\x62\x2d\x64\x35\x35\x64\x39\x39\x30\x65\x38\x66\x66\x61"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ
+    short-id: 2bb326a463fd1937
+  flow: xtls-rprx-vision
+- name: 🇷🇺 Russia [*CIDR] VK
+  type: vless
+  server: "\x32\x31\x37\x2e\x31\x36\x2e\x32\x39\x2e\x33\x31"
+  port: 65535
+  uuid: "\x39\x31\x30\x37\x37\x36\x61\x66\x2d\x64\x63\x65\x30\x2d\x34\x32\x35\x64\x2d\x61\x65\x32\x38\x2d\x34\x66\x62\x31\x35\x34\x62\x39\x66\x37\x63\x32"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x6d\x61\x78\x2e\x72\x75"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM
+    short-id: 495739b968708ab7
   flow: xtls-rprx-vision
 - name: 🌐 Anycast-IP | 🇦🇹 🇩🇪 [*CIDR] VK
   type: vless
@@ -36,35 +76,31 @@ proxies:
   reality-opts:
     public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
   flow: xtls-rprx-vision
-- name: 🌐 Anycast-IP | 🇧🇾 🇩🇪 🇪🇪 🇱🇻 🇵🇱 [*CIDR] VK
+- name: 🌐 Anycast-IP | 🇳🇱 🇷🇺 [*CIDR] YA
   type: vless
-  server: "\x35\x2e\x31\x38\x38\x2e\x31\x34\x30\x2e\x32\x31\x36"
-  port: 2053
-  uuid: "\x66\x65\x33\x61\x32\x66\x30\x61\x2d\x33\x30\x32\x65\x2d\x31\x31\x66\x31\x2d\x38\x64\x63\x66\x2d\x65\x61\x32\x64\x36\x31\x65\x39\x36\x65\x61\x32"
+  server: "\x38\x34\x2e\x32\x30\x31\x2e\x31\x36\x34\x2e\x37\x32"
+  port: 443
+  uuid: "\x36\x39\x34\x65\x61\x64\x62\x65\x2d\x64\x36\x31\x66\x2d\x34\x66\x38\x30\x2d\x39\x35\x37\x62\x2d\x64\x35\x35\x64\x39\x39\x30\x65\x38\x66\x66\x61"
   udp: true
   encryption: none
   tls: true
-  servername: "\x68\x68\x2e\x72\x75"
-  client-fingerprint: chrome
+  servername: "\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
+  client-fingerprint: firefox
   reality-opts:
-    public-key: WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M
-    short-id: 4b685844d0b4f724
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc-direct
-- name: 🌐 Anycast-IP | 🇧🇾 🇪🇪 🇵🇱 🇺🇸 [*CIDR] VK
+    public-key: ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ
+    short-id: 175aaaab96e8cbdd
+  flow: xtls-rprx-vision
+- name: '🌐 Anycast-IP | 🇳🇱 🇷🇺 [*CIDR] YA #2'
   type: vless
-  server: "\x35\x2e\x31\x38\x38\x2e\x31\x34\x31\x2e\x31\x34\x34"
-  port: 2053
-  uuid: "\x66\x65\x33\x61\x32\x66\x30\x61\x2d\x33\x30\x32\x65\x2d\x31\x31\x66\x31\x2d\x38\x64\x63\x66\x2d\x65\x61\x32\x64\x36\x31\x65\x39\x36\x65\x61\x32"
+  server: "\x38\x34\x2e\x32\x30\x31\x2e\x31\x37\x38\x2e\x30"
+  port: 443
+  uuid: "\x36\x39\x34\x65\x61\x64\x62\x65\x2d\x64\x36\x31\x66\x2d\x34\x66\x38\x30\x2d\x39\x35\x37\x62\x2d\x64\x35\x35\x64\x39\x39\x30\x65\x38\x66\x66\x61"
   udp: true
   encryption: none
   tls: true
-  servername: "\x68\x68\x2e\x72\x75"
-  client-fingerprint: chrome
+  servername: "\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
+  client-fingerprint: firefox
   reality-opts:
-    public-key: WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M
-    short-id: 7824dfd19eab1acc
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc-direct
+    public-key: ONSC3Bp5U0cjkMca7bXlUI16izIeN0fJKoCjEdn64RQ
+    short-id: 2bb326a463fd1937
+  flow: xtls-rprx-vision
