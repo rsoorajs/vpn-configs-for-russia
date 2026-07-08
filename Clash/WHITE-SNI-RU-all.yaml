@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-08 / 03:00 (Moscow)
-# Количество: 14
+# Date/Time: 2026-07-08 / 06:04 (Moscow)
+# Количество: 17
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -47,7 +47,7 @@ proxies:
   encryption: none
   tls: true
   servername: "\x72\x62\x63\x2e\x72\x75"
-  client-fingerprint: qq
+  client-fingerprint: chrome
   alpn:
   - http/1.1
   reality-opts:
@@ -62,27 +62,42 @@ proxies:
   encryption: none
   tls: true
   servername: "\x72\x62\x63\x2e\x72\x75"
-  client-fingerprint: firefox
-  alpn:
-  - http/1.1
+  client-fingerprint: chrome
   reality-opts:
     public-key: zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw
   flow: xtls-rprx-vision
-- name: '🇰🇿 Kazakhstan [SNI-RU] rbc.ru #3'
+- name: 🇵🇱 Poland | 🌐 [SNI-RU] dzen.ru
   type: vless
-  server: "\x34\x35\x2e\x34\x33\x2e\x31\x35\x39\x2e\x31\x35\x33"
-  port: 7443
-  uuid: "\x66\x65\x36\x30\x34\x36\x36\x35\x2d\x37\x63\x38\x32\x2d\x34\x34\x63\x66\x2d\x61\x30\x36\x37\x2d\x38\x36\x39\x66\x65\x39\x62\x32\x61\x62\x61\x65"
+  server: "\x32\x30\x31\x2e\x35\x31\x2e\x31\x2e\x32\x34\x33"
+  port: 2053
+  uuid: "\x30\x64\x37\x33\x35\x38\x32\x32\x2d\x33\x37\x38\x35\x2d\x31\x31\x66\x31\x2d\x62\x31\x65\x66\x2d\x33\x65\x37\x33\x63\x34\x66\x33\x62\x35\x33\x64"
   udp: true
   encryption: none
   tls: true
-  servername: "\x72\x62\x63\x2e\x72\x75"
-  client-fingerprint: chrome
-  alpn:
-  - http/1.1
+  servername: "\x64\x7a\x65\x6e\x2e\x72\x75"
+  client-fingerprint: qq
   reality-opts:
-    public-key: zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw
-  flow: xtls-rprx-vision
+    public-key: j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0
+    short-id: 7cb9baf7b4a81603
+  network: grpc
+  grpc-opts:
+    grpc-service-name: grpc-direct
+- name: '🇵🇱 Poland | 🌐 [SNI-RU] dzen.ru #2'
+  type: vless
+  server: "\x32\x30\x31\x2e\x35\x31\x2e\x31\x2e\x32\x34\x33"
+  port: 2053
+  uuid: "\x61\x63\x35\x36\x61\x30\x65\x38\x2d\x37\x39\x65\x33\x2d\x31\x31\x66\x31\x2d\x62\x36\x36\x35\x2d\x62\x36\x63\x31\x35\x38\x66\x61\x38\x35\x39\x33"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x64\x7a\x65\x6e\x2e\x72\x75"
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0
+    short-id: 0904e25166453a7e
+  network: grpc
+  grpc-opts:
+    grpc-service-name: grpc-direct
 - name: 🇸🇮 Slovenia [SNI-RU] ads.x5.ru
   type: vless
   server: "\x39\x32\x2e\x34\x32\x2e\x32\x30\x31\x2e\x32\x37"
@@ -122,6 +137,20 @@ proxies:
   reality-opts:
     public-key: AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs
   flow: xtls-rprx-vision
+- name: 🇺🇸 United States [SNI-RU] yastatic.net
+  type: vless
+  server: "\x32\x2e\x32\x36\x2e\x32\x35\x34\x2e\x38\x39"
+  port: 443
+  uuid: "\x63\x62\x37\x38\x34\x64\x30\x30\x2d\x64\x33\x34\x61\x2d\x34\x33\x38\x39\x2d\x62\x39\x33\x38\x2d\x38\x37\x31\x37\x66\x37\x62\x32\x38\x33\x35\x33"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x79\x61\x73\x74\x61\x74\x69\x63\x2e\x6e\x65\x74"
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: Ulq3VvXRo14PiLx8Ymy8Z-UooTTAU6rjdJ_tIrJcJwA
+    short-id: e9fa03f679854462
+  flow: xtls-rprx-vision
 - name: 🇷🇺 Russia [SNI-RU] ads.x5.ru
   type: vless
   server: "\x31\x37\x36\x2e\x31\x30\x39\x2e\x39\x32\x2e\x31\x33\x39"
@@ -144,7 +173,7 @@ proxies:
   encryption: none
   tls: true
   servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: chrome
+  client-fingerprint: firefox
   reality-opts:
     public-key: AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk
   flow: xtls-rprx-vision
@@ -158,6 +187,19 @@ proxies:
   tls: true
   servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
   client-fingerprint: firefox
+  reality-opts:
+    public-key: AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk
+  flow: xtls-rprx-vision
+- name: '🇷🇺 Russia [SNI-RU] ads.x5.ru #4'
+  type: vless
+  server: "\x31\x37\x36\x2e\x31\x30\x39\x2e\x39\x32\x2e\x31\x33\x39"
+  port: 443
+  uuid: "\x61\x35\x64\x30\x62\x65\x62\x62\x2d\x33\x61\x39\x32\x2d\x30\x37\x35\x61\x2d\x32\x64\x66\x33\x2d\x34\x63\x37\x64\x33\x36\x62\x30\x34\x61\x66\x30"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: chrome
   reality-opts:
     public-key: AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk
   flow: xtls-rprx-vision
@@ -189,17 +231,17 @@ proxies:
     public-key: rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI
     short-id: caa0a516476ad539
   flow: xtls-rprx-vision
-- name: '🇷🇺 Russia [SNI-RU] rbc.ru #3'
+- name: 🌐 Anycast-IP | 🇬🇧 🇳🇱 [SNI-RU] ya.ru
   type: vless
-  server: "\x6d\x77\x73\x2d\x72\x75\x2d\x30\x31\x2e\x6c\x69\x76\x65"
+  server: "\x34\x35\x2e\x31\x33\x32\x2e\x31\x38\x2e\x37\x30"
   port: 443
-  uuid: "\x31\x31\x34\x34\x63\x34\x38\x38\x2d\x62\x33\x65\x39\x2d\x34\x37\x30\x62\x2d\x39\x37\x37\x63\x2d\x61\x31\x32\x66\x62\x37\x35\x62\x31\x31\x31\x33"
+  uuid: "\x64\x63\x64\x65\x30\x63\x34\x31\x2d\x65\x30\x38\x39\x2d\x34\x32\x32\x38\x2d\x62\x61\x65\x66\x2d\x64\x38\x35\x65\x61\x65\x63\x30\x31\x37\x31\x30"
   udp: true
   encryption: none
   tls: true
-  servername: "\x72\x62\x63\x2e\x72\x75"
-  client-fingerprint: chrome
+  servername: "\x79\x61\x2e\x72\x75"
+  client-fingerprint: qq
   reality-opts:
-    public-key: rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI
-    short-id: caa0a516476ad539
+    public-key: fCHXLcQG11a2TwH8f1_Ygsfbk_jlQV6SNzx3a0coIn0
+    short-id: abcd1234
   flow: xtls-rprx-vision
