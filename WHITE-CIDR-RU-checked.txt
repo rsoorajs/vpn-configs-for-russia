@@ -1,7 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-07-09 / 17:28 (Moscow)
-# Количество: 1
+# Date/Time: 2026-07-09 / 19:02 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://57c77d07-bec3-4bf7-9b72-70ece40450f6@5.188.140.160:5443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.226:1829?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D%20VK
+vless://d3d932d2-ff06-4005-8ce7-b49b73f13967@95.163.208.184:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=ads.x5.ru&pbk=bAbF5K_pk8MRvVIXJfH65xYiksNPNFYqLHLwaTEHojQ#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+vless://8fa126b3-56a1-4f24-9987-ef700dfcf5e2@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
