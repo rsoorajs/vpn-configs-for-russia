@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-17 / 17:55 (Moscow)
-# Количество: 19
+# Date/Time: 2026-07-17 / 18:53 (Moscow)
+# Количество: 15
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -82,22 +82,6 @@ proxies:
   encryption: none
   tls: true
   servername: "\x77\x65\x62\x2e\x6d\x61\x78\x2e\x72\x75"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc
-    short-id: 8321461729abcdef
-  network: grpc
-  grpc-opts:
-    grpc-service-name: web.max.ru
-- name: '🇧🇬 Bulgaria [SNI-RU] web.max.ru #5'
-  type: vless
-  server: "\x6e\x6c\x32\x2e\x76\x72\x73\x76\x70\x6e\x2e\x63\x6f\x6d"
-  port: 444
-  uuid: "\x30\x62\x39\x62\x63\x62\x63\x31\x2d\x62\x32\x38\x39\x2d\x34\x61\x36\x34\x2d\x38\x36\x66\x61\x2d\x61\x35\x62\x37\x33\x31\x62\x36\x35\x33\x38\x34"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x77\x65\x62\x2e\x6d\x61\x78\x2e\x72\x75"
   client-fingerprint: safari
   reality-opts:
     public-key: X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc
@@ -105,70 +89,6 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: web.max.ru
-- name: 🇩🇪 Germany [SNI-RU] api-maps.yandex.ru
-  type: vless
-  server: "\x38\x39\x2e\x32\x32\x32\x2e\x31\x32\x33\x2e\x32\x31\x31"
-  port: 16923
-  uuid: "\x37\x64\x39\x36\x34\x62\x64\x31\x2d\x66\x31\x61\x66\x2d\x34\x35\x61\x35\x2d\x39\x32\x36\x66\x2d\x35\x36\x32\x33\x38\x36\x31\x37\x61\x63\x35\x30"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
-    short-id: 10ffb85da1c2d986
-  network: grpc
-  grpc-opts:
-    grpc-service-name: neurex
-- name: '🇩🇪 Germany [SNI-RU] api-maps.yandex.ru #2'
-  type: vless
-  server: "\x38\x39\x2e\x32\x32\x32\x2e\x31\x32\x33\x2e\x32\x31\x31"
-  port: 16923
-  uuid: "\x37\x64\x39\x36\x34\x62\x64\x31\x2d\x66\x31\x61\x66\x2d\x34\x35\x61\x35\x2d\x39\x32\x36\x66\x2d\x35\x36\x32\x33\x38\x36\x31\x37\x61\x63\x35\x30"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: edge
-  reality-opts:
-    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
-    short-id: 10ffb85da1c2d986
-  network: grpc
-  grpc-opts:
-    grpc-service-name: neurex
-- name: '🇩🇪 Germany [SNI-RU] api-maps.yandex.ru #3'
-  type: vless
-  server: "\x38\x39\x2e\x32\x32\x32\x2e\x31\x32\x33\x2e\x32\x31\x31"
-  port: 16923
-  uuid: "\x37\x64\x39\x36\x34\x62\x64\x31\x2d\x66\x31\x61\x66\x2d\x34\x35\x61\x35\x2d\x39\x32\x36\x66\x2d\x35\x36\x32\x33\x38\x36\x31\x37\x61\x63\x35\x30"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
-    short-id: 10ffb85da1c2d986
-  network: grpc
-  grpc-opts:
-    grpc-service-name: neurex
-- name: '🇩🇪 Germany [SNI-RU] api-maps.yandex.ru #4'
-  type: vless
-  server: "\x38\x39\x2e\x32\x32\x32\x2e\x31\x32\x33\x2e\x32\x31\x31"
-  port: 16923
-  uuid: "\x37\x64\x39\x36\x34\x62\x64\x31\x2d\x66\x31\x61\x66\x2d\x34\x35\x61\x35\x2d\x39\x32\x36\x66\x2d\x35\x36\x32\x33\x38\x36\x31\x37\x61\x63\x35\x30"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: _QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA
-    short-id: 10ffb85da1c2d986
-  network: grpc
-  grpc-opts:
-    grpc-service-name: neurex
 - name: 🇱🇻 Latvia | [SNI-RU] rutube.ru
   type: vless
   server: "\x34\x36\x2e\x32\x34\x33\x2e\x31\x34\x32\x2e\x32\x34\x32"
@@ -179,12 +99,12 @@ proxies:
   tls: true
   servername: "\x72\x75\x74\x75\x62\x65\x2e\x72\x75"
   skip-cert-verify: true
-  client-fingerprint: android
+  client-fingerprint: ios
   reality-opts:
     public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc
     short-id: 43dcff53849b81e6
   flow: xtls-rprx-vision
-- name: '🇱🇻 Latvia | [SNI-RU] rutube.ru #2'
+- name: 🇱🇻 Latvia [SNI-RU] rutube.ru
   type: vless
   server: "\x34\x36\x2e\x32\x34\x33\x2e\x31\x34\x32\x2e\x32\x34\x32"
   port: 8443
@@ -199,7 +119,7 @@ proxies:
     public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc
     short-id: 43dcff53849b81e6
   flow: xtls-rprx-vision
-- name: '🇱🇻 Latvia | [SNI-RU] rutube.ru #3'
+- name: '🇱🇻 Latvia [SNI-RU] rutube.ru #2'
   type: vless
   server: "\x34\x36\x2e\x32\x34\x33\x2e\x31\x34\x32\x2e\x32\x34\x32"
   port: 8443
@@ -214,6 +134,22 @@ proxies:
     public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc
     short-id: 43dcff53849b81e6
   flow: xtls-rprx-vision
+- name: 🇺🇸 United States | [SNI-RU] web.max.ru
+  type: vless
+  server: "\x75\x73\x61\x2e\x76\x72\x73\x76\x70\x6e\x2e\x63\x6f\x6d"
+  port: 444
+  uuid: "\x30\x62\x39\x62\x63\x62\x63\x31\x2d\x62\x32\x38\x39\x2d\x34\x61\x36\x34\x2d\x38\x36\x66\x61\x2d\x61\x35\x62\x37\x33\x31\x62\x36\x35\x33\x38\x34"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x77\x65\x62\x2e\x6d\x61\x78\x2e\x72\x75"
+  client-fingerprint: chrome
+  reality-opts:
+    public-key: MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20
+    short-id: 8311761729abcdef
+  network: grpc
+  grpc-opts:
+    grpc-service-name: web.max.ru
 - name: 🇺🇸 United States [SNI-RU] web.max.ru
   type: vless
   server: "\x75\x73\x61\x2e\x76\x72\x73\x76\x70\x6e\x2e\x63\x6f\x6d"
