@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-21 / 05:29 (Moscow)
-# Количество: 19
+# Date/Time: 2026-07-21 / 06:38 (Moscow)
+# Количество: 18
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -9,6 +9,33 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [SNI-RU] ads.x5.ru
+  type: vless
+  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x33\x33"
+  port: 2030
+  uuid: "\x38\x30\x36\x62\x38\x30\x33\x62\x2d\x37\x64\x61\x64\x2d\x34\x66\x31\x33\x2d\x62\x35\x32\x35\x2d\x66\x33\x62\x31\x61\x62\x35\x30\x65\x34\x34\x65"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
+  client-fingerprint: qq
+  reality-opts:
+    public-key: EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0
+    short-id: 6ba7b8109dad11d1
+  flow: xtls-rprx-vision
+- name: 🇩🇪 Germany | 🌐 [SNI-RU] api-maps.yandex.ru
+  type: vless
+  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x32\x32"
+  port: 1111
+  uuid: "\x62\x66\x61\x39\x36\x65\x65\x38\x2d\x30\x64\x37\x33\x2d\x34\x66\x32\x34\x2d\x39\x62\x36\x31\x2d\x34\x38\x33\x33\x65\x38\x61\x30\x34\x62\x39\x62"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA
+  flow: xtls-rprx-vision
 - name: 🇩🇪 Germany | 🌐 [SNI-RU] max.ru
   type: vless
   server: "\x6e\x6f\x64\x65\x34\x2e\x66\x72\x6f\x73\x74\x2d\x61\x70\x69\x2e\x63\x6f\x6d"
@@ -41,22 +68,6 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: neurex
-- name: 🇩🇪 Germany [SNI-RU] max.ru
-  type: vless
-  server: "\x64\x65\x6e\x6f\x64\x65\x31\x2e\x66\x72\x6f\x73\x74\x2d\x61\x70\x69\x2e\x63\x6f\x6d"
-  port: 443
-  uuid: "\x65\x39\x37\x64\x33\x35\x35\x34\x2d\x63\x64\x65\x33\x2d\x34\x33\x39\x31\x2d\x39\x31\x30\x33\x2d\x65\x61\x36\x30\x31\x62\x33\x36\x32\x37\x36\x33"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x6d\x61\x78\x2e\x72\x75"
-  client-fingerprint: qq
-  alpn:
-  - http/1.1
-  reality-opts:
-    public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw
-    short-id: 66c17371
-  flow: xtls-rprx-vision
 - name: 🇭🇺 Hungary [SNI-RU] api-maps.yandex.ru
   type: vless
   server: "\x31\x35\x32\x2e\x32\x33\x33\x2e\x34\x31\x2e\x33\x30"
@@ -175,34 +186,6 @@ proxies:
     public-key: SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw
     short-id: 4f61d0728e062b
   flow: xtls-rprx-vision
-- name: 🇪🇸 Spain | 🌐 [SNI-RU] ads.x5.ru
-  type: vless
-  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x33\x33"
-  port: 2030
-  uuid: "\x38\x30\x36\x62\x38\x30\x33\x62\x2d\x37\x64\x61\x64\x2d\x34\x66\x31\x33\x2d\x62\x35\x32\x35\x2d\x66\x33\x62\x31\x61\x62\x35\x30\x65\x34\x34\x65"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0
-    short-id: 6ba7b8109dad11d1
-  flow: xtls-rprx-vision
-- name: '🇪🇸 Spain | 🌐 [SNI-RU] ads.x5.ru #2'
-  type: vless
-  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x33\x33"
-  port: 2030
-  uuid: "\x38\x30\x36\x62\x38\x30\x33\x62\x2d\x37\x64\x61\x64\x2d\x34\x66\x31\x33\x2d\x62\x35\x32\x35\x2d\x66\x33\x62\x31\x61\x62\x35\x30\x65\x34\x34\x65"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0
-    short-id: 6ba7b8109dad11d1
-  flow: xtls-rprx-vision
 - name: 🇨🇭 Switzerland [SNI-RU] api-maps.yandex.ru
   type: vless
   server: "\x31\x35\x32\x2e\x32\x33\x33\x2e\x33\x31\x2e\x37\x32"
@@ -274,7 +257,7 @@ proxies:
     public-key: FN85iXr6eKOQLpileQaXWAQS9LcdwTFAfgMoZT6-5kQ
     short-id: cbbd2f61842e7cf7
   flow: xtls-rprx-vision
-- name: 🌐 Anycast-IP | 🇩🇪 🇵🇱 🇷🇺 [SNI-RU] max.ru
+- name: 🌐 Anycast-IP | 🇩🇪 🇷🇺 [SNI-RU] max.ru
   type: vless
   server: "\x6e\x6f\x64\x65\x33\x2e\x66\x72\x6f\x73\x74\x2d\x61\x70\x69\x2e\x63\x6f\x6d"
   port: 443
