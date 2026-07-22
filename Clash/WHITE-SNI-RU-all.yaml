@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-22 / 16:31 (Moscow)
-# Количество: 5
+# Date/Time: 2026-07-22 / 17:39 (Moscow)
+# Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -31,7 +31,7 @@ proxies:
   encryption: none
   tls: true
   servername: "\x61\x70\x69\x2d\x6d\x61\x70\x73\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: firefox
+  client-fingerprint: ios
   reality-opts:
     public-key: YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA
   flow: xtls-rprx-vision
@@ -47,6 +47,20 @@ proxies:
   client-fingerprint: safari
   reality-opts:
     public-key: YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA
+  flow: xtls-rprx-vision
+- name: 🇳🇱 The Netherlands | [SNI-RU] sun6-21.userapi.com
+  type: vless
+  server: "\x66\x72\x65\x65\x6e\x6c\x2e\x73\x74\x72\x65\x74\x74\x65\x6e\x76\x70\x6e\x2e\x63\x6f\x6d"
+  port: 443
+  uuid: "\x62\x30\x34\x61\x37\x30\x38\x61\x2d\x37\x65\x35\x36\x2d\x34\x35\x66\x39\x2d\x39\x35\x35\x37\x2d\x32\x64\x36\x32\x35\x33\x61\x38\x64\x65\x36\x65"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x73\x75\x6e\x36\x2d\x32\x31\x2e\x75\x73\x65\x72\x61\x70\x69\x2e\x63\x6f\x6d"
+  client-fingerprint: ios
+  reality-opts:
+    public-key: yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28
+    short-id: '8248954896'
   flow: xtls-rprx-vision
 - name: 🇳🇱 The Netherlands [SNI-RU] sun6-21.userapi.com
   type: vless
