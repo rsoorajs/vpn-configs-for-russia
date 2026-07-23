@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-23 / 05:50 (Moscow)
-# Количество: 37
+# Date/Time: 2026-07-23 / 07:00 (Moscow)
+# Количество: 32
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -51,97 +51,6 @@ proxies:
     public-key: yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28
     short-id: '8248954896'
   flow: xtls-rprx-vision
-- name: 🇨🇿 Czechia | 🌐 [SNI-RU] vk.com
-  type: vless
-  server: "\x63\x78\x68\x31\x2e\x77\x2d\x6d\x65\x62\x65\x6c\x2e\x70\x72\x6f"
-  port: 443
-  uuid: "\x63\x31\x64\x36\x32\x64\x35\x33\x2d\x32\x66\x63\x64\x2d\x34\x39\x35\x31\x2d\x61\x62\x39\x36\x2d\x63\x38\x31\x34\x38\x36\x66\x35\x39\x37\x37\x35"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x76\x6b\x2e\x63\x6f\x6d"
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM
-    short-id: ad96a4ff2853b26c
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f\x76\x69\x64\x65\x6f\x2f\x76\x35\x2f\x63\x68\x75\x6e\x6b\x73"
-    mode: packet-up
-    headers:
-      Host: "\x76\x6b\x2e\x63\x6f\x6d"
-- name: '🇨🇿 Czechia | 🌐 [SNI-RU] vk.com #2'
-  type: vless
-  server: "\x63\x78\x68\x31\x2e\x77\x2d\x6d\x65\x62\x65\x6c\x2e\x70\x72\x6f"
-  port: 443
-  uuid: "\x63\x31\x64\x36\x32\x64\x35\x33\x2d\x32\x66\x63\x64\x2d\x34\x39\x35\x31\x2d\x61\x62\x39\x36\x2d\x63\x38\x31\x34\x38\x36\x66\x35\x39\x37\x37\x35"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x76\x6b\x2e\x63\x6f\x6d"
-  client-fingerprint: ios
-  reality-opts:
-    public-key: UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM
-    short-id: ad96a4ff2853b26c
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f\x76\x69\x64\x65\x6f\x2f\x76\x35\x2f\x63\x68\x75\x6e\x6b\x73"
-    mode: packet-up
-    headers:
-      Host: "\x76\x6b\x2e\x63\x6f\x6d"
-- name: 🇨🇿 Czechia | 🌐 | [SNI-RU] vk.com
-  type: vless
-  server: "\x63\x78\x68\x31\x2e\x77\x2d\x6d\x65\x62\x65\x6c\x2e\x70\x72\x6f"
-  port: 443
-  uuid: "\x63\x31\x64\x36\x32\x64\x35\x33\x2d\x32\x66\x63\x64\x2d\x34\x39\x35\x31\x2d\x61\x62\x39\x36\x2d\x63\x38\x31\x34\x38\x36\x66\x35\x39\x37\x37\x35"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x76\x6b\x2e\x63\x6f\x6d"
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: UZZID1Kkicu6Bwn6RqLZBWWkWCcexoVpUWOP6HWY2nM
-    short-id: ad96a4ff2853b26c
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f\x76\x69\x64\x65\x6f\x2f\x76\x35\x2f\x63\x68\x75\x6e\x6b\x73"
-    mode: packet-up
-    headers:
-      Host: "\x76\x6b\x2e\x63\x6f\x6d"
-- name: 🇩🇪 Germany | [SNI-RU] stats.vk-portal.net
-  type: vless
-  server: "\x64\x65\x73\x72\x76\x2e\x6e\x6f\x6f\x6f\x6f\x2e\x77\x69\x6e"
-  port: 443
-  uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x73\x74\x61\x74\x73\x2e\x76\x6b\x2d\x70\x6f\x72\x74\x61\x6c\x2e\x6e\x65\x74"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f"
-    mode: auto
-- name: '🇩🇪 Germany | [SNI-RU] stats.vk-portal.net #2'
-  type: vless
-  server: "\x64\x65\x73\x72\x76\x2e\x6e\x6f\x6f\x6f\x6f\x2e\x77\x69\x6e"
-  port: 443
-  uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x73\x74\x61\x74\x73\x2e\x76\x6b\x2d\x70\x6f\x72\x74\x61\x6c\x2e\x6e\x65\x74"
-  client-fingerprint: safari
-  reality-opts:
-    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
-    short-id: 992f3294e2336744
-  network: xhttp
-  xhttp-opts:
-    path: "\x2f"
-    mode: auto
 - name: 🇭🇺 Hungary | [SNI-RU] api-maps.yandex.ru
   type: vless
   server: "\x31\x35\x32\x2e\x32\x33\x33\x2e\x34\x31\x2e\x33\x30"
@@ -302,34 +211,6 @@ proxies:
   network: grpc
   grpc-opts:
     grpc-service-name: neurex
-- name: 🇪🇸 Spain | 🌐 | [SNI-RU] ads.x5.ru
-  type: vless
-  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x33\x33"
-  port: 2030
-  uuid: "\x38\x30\x36\x62\x38\x30\x33\x62\x2d\x37\x64\x61\x64\x2d\x34\x66\x31\x33\x2d\x62\x35\x32\x35\x2d\x66\x33\x62\x31\x61\x62\x35\x30\x65\x34\x34\x65"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: edge
-  reality-opts:
-    public-key: EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0
-    short-id: 6ba7b8109dad11d1
-  flow: xtls-rprx-vision
-- name: '🇪🇸 Spain | 🌐 | [SNI-RU] ads.x5.ru #2'
-  type: vless
-  server: "\x37\x38\x2e\x31\x35\x39\x2e\x32\x34\x35\x2e\x33\x33"
-  port: 2030
-  uuid: "\x38\x30\x36\x62\x38\x30\x33\x62\x2d\x37\x64\x61\x64\x2d\x34\x66\x31\x33\x2d\x62\x35\x32\x35\x2d\x66\x33\x62\x31\x61\x62\x35\x30\x65\x34\x34\x65"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: ios
-  reality-opts:
-    public-key: EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0
-    short-id: 6ba7b8109dad11d1
-  flow: xtls-rprx-vision
 - name: 🇨🇭 Switzerland [SNI-RU] api-maps.yandex.ru
   type: vless
   server: "\x31\x35\x32\x2e\x32\x33\x33\x2e\x33\x31\x2e\x37\x32"
@@ -488,16 +369,16 @@ proxies:
   reality-opts:
     public-key: YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA
   flow: xtls-rprx-vision
-- name: 🇹🇷 Turkey | [SNI-RU] stats.vk-portal.net
+- name: 🇳🇱 The Netherlands | [SNI-RU] stats.vk-portal.net
   type: vless
-  server: "\x74\x72\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
+  server: "\x64\x65\x73\x72\x76\x2e\x6e\x6f\x6f\x6f\x6f\x2e\x77\x69\x6e"
   port: 443
   uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
   udp: true
   encryption: none
   tls: true
   servername: "\x73\x74\x61\x74\x73\x2e\x76\x6b\x2d\x70\x6f\x72\x74\x61\x6c\x2e\x6e\x65\x74"
-  client-fingerprint: firefox
+  client-fingerprint: safari
   reality-opts:
     public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
     short-id: 992f3294e2336744
@@ -505,7 +386,24 @@ proxies:
   xhttp-opts:
     path: "\x2f"
     mode: auto
-- name: '🇹🇷 Turkey | [SNI-RU] stats.vk-portal.net #2'
+- name: 🇳🇱 The Netherlands [SNI-RU] stats.vk-portal.net
+  type: vless
+  server: "\x64\x65\x73\x72\x76\x2e\x6e\x6f\x6f\x6f\x6f\x2e\x77\x69\x6e"
+  port: 443
+  uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x73\x74\x61\x74\x73\x2e\x76\x6b\x2d\x70\x6f\x72\x74\x61\x6c\x2e\x6e\x65\x74"
+  client-fingerprint: qq
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  network: xhttp
+  xhttp-opts:
+    path: "\x2f"
+    mode: auto
+- name: 🇹🇷 Turkey | [SNI-RU] stats.vk-portal.net
   type: vless
   server: "\x74\x72\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
   port: 443
@@ -522,9 +420,9 @@ proxies:
   xhttp-opts:
     path: "\x2f"
     mode: auto
-- name: 🇷🇺 Russia | [SNI-RU] stats.vk-portal.net
+- name: 🇹🇷 Turkey [SNI-RU] stats.vk-portal.net
   type: vless
-  server: "\x72\x75\x73\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
+  server: "\x74\x72\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
   port: 443
   uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
   udp: true
@@ -539,7 +437,7 @@ proxies:
   xhttp-opts:
     path: "\x2f"
     mode: auto
-- name: '🇷🇺 Russia | [SNI-RU] stats.vk-portal.net #2'
+- name: 🇷🇺 Russia | 🌐 [SNI-RU] stats.vk-portal.net
   type: vless
   server: "\x72\x75\x73\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
   port: 443
@@ -556,7 +454,24 @@ proxies:
   xhttp-opts:
     path: "\x2f"
     mode: auto
-- name: '🇨🇿 Czechia | 🌐 [SNI-RU] vk.com #3'
+- name: 🇷🇺 Russia | 🌐 | [SNI-RU] stats.vk-portal.net
+  type: vless
+  server: "\x72\x75\x73\x2e\x66\x61\x73\x74\x69\x2e\x77\x69\x6e"
+  port: 443
+  uuid: "\x36\x66\x39\x38\x61\x30\x37\x37\x2d\x30\x30\x34\x65\x2d\x34\x62\x38\x36\x2d\x38\x62\x37\x38\x2d\x38\x64\x30\x39\x33\x30\x38\x64\x33\x38\x36\x38"
+  udp: true
+  encryption: none
+  tls: true
+  servername: "\x73\x74\x61\x74\x73\x2e\x76\x6b\x2d\x70\x6f\x72\x74\x61\x6c\x2e\x6e\x65\x74"
+  client-fingerprint: firefox
+  reality-opts:
+    public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs
+    short-id: 992f3294e2336744
+  network: xhttp
+  xhttp-opts:
+    path: "\x2f"
+    mode: auto
+- name: 🇨🇿 Czechia | 🌐 [SNI-RU] vk.com
   type: trojan
   server: "\x63\x7a\x74\x72\x31\x2e\x77\x2d\x6d\x65\x62\x65\x6c\x2e\x70\x72\x6f"
   port: 443
@@ -564,7 +479,7 @@ proxies:
   udp: true
   sni: "\x76\x6b\x2e\x63\x6f\x6d"
   client-fingerprint: edge
-- name: '🇨🇿 Czechia | 🌐 [SNI-RU] vk.com #4'
+- name: '🇨🇿 Czechia | 🌐 [SNI-RU] vk.com #2'
   type: trojan
   server: "\x63\x7a\x74\x72\x31\x2e\x77\x2d\x6d\x65\x62\x65\x6c\x2e\x70\x72\x6f"
   port: 443
