@@ -1,57 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-07-24 / 19:46 (Moscow)
-# Количество: 3
+# Date/Time: 2026-07-24 / 20:52 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
 allow-lan: false
 mode: rule
 log-level: warning
-proxies:
-- name: 🇩🇪 Germany | 🌐 [*CIDR] VK
-  type: vless
-  server: "\x39\x30\x2e\x31\x35\x36\x2e\x32\x31\x38\x2e\x33\x37"
-  port: 8443
-  uuid: "\x37\x32\x36\x64\x31\x33\x39\x34\x2d\x35\x35\x63\x62\x2d\x34\x66\x39\x33\x2d\x38\x33\x30\x37\x2d\x61\x39\x64\x35\x65\x62\x35\x30\x37\x64\x66\x36"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0
-    short-id: dfdee30a27b11f0f
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: '🇩🇪 Germany | 🌐 [*CIDR] VK #2'
-  type: vless
-  server: "\x39\x30\x2e\x31\x35\x36\x2e\x32\x31\x38\x2e\x33\x37"
-  port: 8443
-  uuid: "\x39\x61\x37\x61\x63\x33\x31\x39\x2d\x64\x31\x66\x64\x2d\x34\x31\x63\x33\x2d\x39\x39\x61\x34\x2d\x62\x32\x66\x37\x30\x39\x34\x66\x34\x31\x38\x31"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: qq
-  reality-opts:
-    public-key: t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0
-    short-id: dfdee30a27b11f0f
-  network: grpc
-  grpc-opts:
-    grpc-service-name: grpc
-- name: 🇷🇺 Russia | 🌐 [*CIDR] VK
-  type: vless
-  server: "\x31\x30\x39\x2e\x31\x32\x30\x2e\x31\x38\x39\x2e\x31\x35\x34"
-  port: 443
-  uuid: "\x31\x64\x62\x30\x61\x36\x31\x65\x2d\x30\x35\x66\x35\x2d\x34\x33\x61\x64\x2d\x38\x37\x30\x63\x2d\x63\x65\x66\x66\x36\x63\x65\x30\x36\x39\x33\x39"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x61\x64\x73\x2e\x78\x35\x2e\x72\x75"
-  client-fingerprint: firefox
-  reality-opts:
-    public-key: KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE
-    short-id: 6aa44564cda562bc
-  flow: xtls-rprx-vision
+proxies: []
