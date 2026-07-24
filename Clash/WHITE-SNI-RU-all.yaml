@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-24 / 23:01 (Moscow)
-# Количество: 5
+# Date/Time: 2026-07-25 / 00:07 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 mixed-port: 7890
@@ -9,21 +9,7 @@ allow-lan: false
 mode: rule
 log-level: warning
 proxies:
-- name: 🇧🇬 Bulgaria | [SNI-RU] www.yandex.ru
-  type: vless
-  server: "\x32\x2e\x32\x37\x2e\x31\x30\x35\x2e\x31\x37\x32"
-  port: 443
-  uuid: "\x37\x35\x62\x66\x34\x37\x35\x38\x2d\x30\x64\x66\x61\x2d\x34\x62\x37\x65\x2d\x38\x61\x37\x33\x2d\x38\x31\x33\x30\x38\x38\x65\x64\x62\x37\x38\x30"
-  udp: true
-  encryption: none
-  tls: true
-  servername: "\x77\x77\x77\x2e\x79\x61\x6e\x64\x65\x78\x2e\x72\x75"
-  client-fingerprint: android
-  reality-opts:
-    public-key: koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ
-    short-id: bb186e4397a2792d
-  flow: xtls-rprx-vision
-- name: '🇧🇬 Bulgaria | [SNI-RU] www.yandex.ru #2'
+- name: .𖥔 ݁ ˖ִ🛸༄˖°. | [SNI-RU] www.yandex.ru
   type: vless
   server: "\x32\x2e\x32\x37\x2e\x31\x30\x35\x2e\x31\x37\x32"
   port: 443
@@ -37,7 +23,7 @@ proxies:
     public-key: koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ
     short-id: bb186e4397a2792d
   flow: xtls-rprx-vision
-- name: '🇧🇬 Bulgaria | [SNI-RU] www.yandex.ru #3'
+- name: 🇧🇬 Bulgaria [SNI-RU] www.yandex.ru
   type: vless
   server: "\x32\x2e\x32\x37\x2e\x31\x30\x35\x2e\x31\x37\x32"
   port: 443
@@ -51,7 +37,7 @@ proxies:
     public-key: koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ
     short-id: bb186e4397a2792d
   flow: xtls-rprx-vision
-- name: '🇧🇬 Bulgaria | [SNI-RU] www.yandex.ru #4'
+- name: '🇧🇬 Bulgaria [SNI-RU] www.yandex.ru #2'
   type: vless
   server: "\x32\x2e\x32\x37\x2e\x31\x30\x35\x2e\x31\x37\x32"
   port: 443
@@ -65,7 +51,7 @@ proxies:
     public-key: koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ
     short-id: bb186e4397a2792d
   flow: xtls-rprx-vision
-- name: '🇧🇬 Bulgaria | [SNI-RU] www.yandex.ru #5'
+- name: '🇧🇬 Bulgaria [SNI-RU] www.yandex.ru #3'
   type: vless
   server: "\x32\x2e\x32\x37\x2e\x31\x30\x35\x2e\x31\x37\x32"
   port: 443
