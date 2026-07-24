@@ -1,9 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-07-24 / 19:47 (Moscow)
-# Количество: 3
+# Date/Time: 2026-07-24 / 20:52 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://726d1394-55cb-4f93-8307-a9d5eb507df6@90.156.218.37:8443?encryption=none&fp=qq&mode=gun&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&security=reality&serviceName=grpc&sid=dfdee30a27b11f0f&sni=ads.x5.ru&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://9a7ac319-d1fd-41c3-99a4-b2f7094f4181@90.156.218.37:8443?encryption=none&fp=qq&mode=gun&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&security=reality&serviceName=grpc&sid=dfdee30a27b11f0f&sni=ads.x5.ru&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&security=reality&sid=6aa44564cda562bc&sni=ads.x5.ru&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
